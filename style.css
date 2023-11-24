@@ -1,0 +1,68 @@
+body {
+  width: 400px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+header div {
+  background-color: black;
+  padding-bottom: 50px;
+  padding-top: 30px;
+}
+.first {
+  background-image: url(Esercizio/images/banner.jpg);
+  background-position: center center;
+
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+h1 {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-weight: bold;
+  font-size: 50px;
+  padding-top: 100px;
+}
+
+p {
+  padding: 50px;
+  text-align: center;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 20px;
+}
+button {
+  background-color: orange;
+  font-size: small;
+}
+
+h2 {
+  padding-top: 80px;
+  padding-bottom: 10px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 25px;
+  font-weight: bolder;
+}
+
+#scatola {
+  border: 10px;
+  background-color: orangered;
+  font-size: medium;
+  padding-bottom: 40px;
+  margin-bottom: 40px;
+}
+p #scatola {
+  font-style: italic;
+}
+footer {padding-top: 20px;
+  background-color: rgb(22, 112, 150);
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-weight: bold;
+  text-align: center;
+
+}
+section {padding-top: 20px;}
